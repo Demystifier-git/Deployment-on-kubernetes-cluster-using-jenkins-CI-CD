@@ -1,3 +1,9 @@
 
-![image](https://user-images.githubusercontent.com/35370115/150634956-54357760-c5b9-445c-b444-5b69e98e83b8.png)
-"# webhook-project" 
+Kubernetes based application deployment using Jenkins Freestyle,Ansible and DockerHost
+Pre-requisites : Git, Linux, Jenkins, Docker, DockerHub Account, Ansible,Kubernetes
+
+3 ec2 instances :
+----------------------------------------------
+1. Jenkins 
+2.Ansible  
+3.Webapp
